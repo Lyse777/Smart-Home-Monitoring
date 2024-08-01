@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "32191230194",
+    "project_id": "authenticate-6a3c8",
+    "storage_bucket": "authenticate-6a3c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32191230194:android:c03c8fdc4f969c8b33606b",
+        "android_client_info": {
+          "package_name": "com.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32191230194-jl150doomn75mmak2oge5rhu3vofv8nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.app",
+            "certificate_hash": "95920e98bd4714d8e9babe282d0791538ae24f6a"
+          }
+        },
+        {
+          "client_id": "32191230194-2cn1b2asl6cnj9nir1n4up5tr31ne83d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPOhaDKAqsJonpBnoU-HvTKxF-1OY9go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32191230194-2cn1b2asl6cnj9nir1n4up5tr31ne83d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32191230194-4rjo6ke7gu47bqseq64p8p8aogm6k1ac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartHomeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32191230194:android:8be94e20eba0222133606b",
+        "android_client_info": {
+          "package_name": "com.example.sensormobileapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32191230194-2cn1b2asl6cnj9nir1n4up5tr31ne83d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPOhaDKAqsJonpBnoU-HvTKxF-1OY9go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32191230194-2cn1b2asl6cnj9nir1n4up5tr31ne83d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32191230194-4rjo6ke7gu47bqseq64p8p8aogm6k1ac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartHomeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
